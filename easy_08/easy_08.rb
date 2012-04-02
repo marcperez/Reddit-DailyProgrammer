@@ -1,5 +1,4 @@
-
-
+# Write a program that will print the song "99 bottles of beer on the wall".
 # Ninety-nine bottles of beer on the wall, Ninety-nine bottles of beer.
 # Take one down, pass it around, Ninety-eight bottles of beer on the wall.
 
