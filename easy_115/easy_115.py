@@ -4,8 +4,9 @@
 import random
 
 print "Welcome to guess-that-numbers game! I have already picked a number in [1, 100]. Please make a guess. Type \"exit\" to quit."
+
 picked = random.randint(1,100)
-print picked
+
 while True:
 	guess = raw_input()
 
